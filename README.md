@@ -1,6 +1,6 @@
 # iris-terraform-deployment
 
-![alt tag](https://github.com/Abdul2/iris-terraform-deployment/blob/master/env.svg)
+![alt tag](https://github.com/Abdul2/iris-terraform-deployment/blob/master/env.png)
 
 ![Alt text](env.svg?raw=true "Title")
 
