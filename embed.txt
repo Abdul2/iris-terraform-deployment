@@ -1,5 +1,0 @@
-
-![alt tag](https://github.com/Abdul2/iris-terraform-deployment/blob/master/env.svg)
-
-
-
